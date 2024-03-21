@@ -159,3 +159,19 @@
 }
 
 
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:600px;
+    height:400px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none;
+    width:600px;
+    height:400px;
+}
+.gmap_iframe {
+    width:500px;
+    height:400px;
+}
