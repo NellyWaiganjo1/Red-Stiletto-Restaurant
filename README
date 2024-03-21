@@ -4,6 +4,9 @@ Welcome to the Red Stiletto Restaurant website repository! This repository conta
 ## About Red Stiletto Restaurant
 Red Stiletto Restaurant is a premier dining destination located in the heart of Eldoret. Renowned for its exquisite cuisine, elegant ambiance, and impeccable service, Red Stiletto offers a dining experience like no other. From gourmet dishes crafted with the finest ingredients to a sophisticated atmosphere that exudes luxury and charm, every visit to Red Stiletto is a culinary journey to remember.
 
+## Live Link 
+https://nellywaiganjo1.github.io/Red-Stiletto-Restaurant/
+
 ## Features
 Menu Presentation: Explore our diverse menu offerings, including appetizers, mains, desserts, and beverages, presented with enticing descriptions and mouthwatering images.
 Reservation System: Easily book a table for your next dining experience with our user-friendly reservation system. Specify your preferred date, time, and party size, and we'll ensure your table is ready to welcome you.
@@ -14,7 +17,7 @@ Contact Information: Get in touch with us easily through our contact information
 Getting Started
 To get started with the Red Stiletto Restaurant website, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using the following command:
+## Clone the Repository: Clone this repository to your local machine using the following command:
 
 bash
 Copy code
@@ -25,6 +28,7 @@ bash
 Copy code
 cd red-stiletto-restaurant
 Explore the Code: Explore the source code and assets to familiarize yourself with the structure and components of the website.
+
 
 Contribute: If you're interested in contributing to the development of the Red Stiletto Restaurant website, feel free to fork the repository, make your changes, and submit a pull request.
 
